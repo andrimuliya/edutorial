@@ -4,34 +4,34 @@
   "start_url": "https://www.edutorial.id/",
   "display": "standalone",
   "background_color": "#fff",
-  "theme_color": "#cc0000",
+  "theme_color": "#880a0a",
   "description": "Edukasi Editorial",
   "icons": [{
-    "src": "https://3.bp.blogspot.com/-wV6IBZQsevU/XT1-eVpgouI/AAAAAAAADJk/nSyj_6RCRys1nXzSmjTSDD763tPwajBuACLcBGAs/s48/edutorial%2Bicon.png",
+    "src": "https://1.bp.blogspot.com/-RUS6f9BAFjA/XT2jiecSHcI/AAAAAAAADKs/HReP6MyykC4qUhlDXOw10-tgZ5ITAx3TwCLcBGAs/s48/android-chrome-512x512.png",
     "sizes": "48x48",
     "type": "image/png"
   }, {
-    "src": "https://3.bp.blogspot.com/-wV6IBZQsevU/XT1-eVpgouI/AAAAAAAADJk/nSyj_6RCRys1nXzSmjTSDD763tPwajBuACLcBGAs/s72/edutorial%2Bicon.png",
+    "src": "https://1.bp.blogspot.com/-RUS6f9BAFjA/XT2jiecSHcI/AAAAAAAADKs/HReP6MyykC4qUhlDXOw10-tgZ5ITAx3TwCLcBGAs/s72/android-chrome-512x512.png",
     "sizes": "72x72",
     "type": "image/png"
   }, {
-    "src": "https://3.bp.blogspot.com/-wV6IBZQsevU/XT1-eVpgouI/AAAAAAAADJk/nSyj_6RCRys1nXzSmjTSDD763tPwajBuACLcBGAs/s96/edutorial%2Bicon.png",
+    "src": "https://1.bp.blogspot.com/-RUS6f9BAFjA/XT2jiecSHcI/AAAAAAAADKs/HReP6MyykC4qUhlDXOw10-tgZ5ITAx3TwCLcBGAs/s96/android-chrome-512x512.png",
     "sizes": "96x96",
     "type": "image/png"
   }, {
-    "src": "https://3.bp.blogspot.com/-wV6IBZQsevU/XT1-eVpgouI/AAAAAAAADJk/nSyj_6RCRys1nXzSmjTSDD763tPwajBuACLcBGAs/s144/edutorial%2Bicon.png",
+    "src": "https://1.bp.blogspot.com/-RUS6f9BAFjA/XT2jiecSHcI/AAAAAAAADKs/HReP6MyykC4qUhlDXOw10-tgZ5ITAx3TwCLcBGAs/s144/android-chrome-512x512.png",
     "sizes": "144x144",
     "type": "image/png"
   }, {
-    "src": "https://3.bp.blogspot.com/-wV6IBZQsevU/XT1-eVpgouI/AAAAAAAADJk/nSyj_6RCRys1nXzSmjTSDD763tPwajBuACLcBGAs/s168/edutorial%2Bicon.png",
+    "src": "https://1.bp.blogspot.com/-RUS6f9BAFjA/XT2jiecSHcI/AAAAAAAADKs/HReP6MyykC4qUhlDXOw10-tgZ5ITAx3TwCLcBGAs/s168/android-chrome-512x512.png",
     "sizes": "168x168",
     "type": "image/png"
   }, {
-    "src": "https://3.bp.blogspot.com/-wV6IBZQsevU/XT1-eVpgouI/AAAAAAAADJk/nSyj_6RCRys1nXzSmjTSDD763tPwajBuACLcBGAs/s192/edutorial%2Bicon.png",
+    "src": "https://1.bp.blogspot.com/-RUS6f9BAFjA/XT2jiecSHcI/AAAAAAAADKs/HReP6MyykC4qUhlDXOw10-tgZ5ITAx3TwCLcBGAs/s192/android-chrome-512x512.png",
     "sizes": "192x192",
     "type": "image/png"
   }, {
-    "src": "https://3.bp.blogspot.com/-wV6IBZQsevU/XT1-eVpgouI/AAAAAAAADJk/nSyj_6RCRys1nXzSmjTSDD763tPwajBuACLcBGAs/s512/edutorial%2Bicon.png",
+    "src": "https://1.bp.blogspot.com/-RUS6f9BAFjA/XT2jiecSHcI/AAAAAAAADKs/HReP6MyykC4qUhlDXOw10-tgZ5ITAx3TwCLcBGAs/s512/android-chrome-512x512.png",
     "sizes": "512x512",
     "type": "image/png"
   }]
